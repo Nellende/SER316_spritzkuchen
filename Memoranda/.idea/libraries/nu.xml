@@ -1,14 +1,14 @@
 <component name="libraryTable">
   <library name="nu">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../../../Program Files/nu" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Program Files/nu" />
     </CLASSES>
     <JAVADOC>
-      <root url="file://$PROJECT_DIR$/../../../../Program Files/nu/XOM/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Program Files/nu/XOM/apidocs" />
     </JAVADOC>
     <SOURCES>
-      <root url="file://$PROJECT_DIR$/../../../../Program Files/nu/XOM/fatsrc" />
-      <root url="file://$PROJECT_DIR$/../../../../Program Files/nu/XOM/src" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Program Files/nu/XOM/fatsrc" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Program Files/nu/XOM/src" />
     </SOURCES>
   </library>
 </component>
