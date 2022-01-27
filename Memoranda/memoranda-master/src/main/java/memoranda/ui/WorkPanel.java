@@ -54,8 +54,8 @@ public class WorkPanel extends JPanel {
 			BorderFactory.createCompoundBorder(
 				BorderFactory.createBevelBorder(
 					BevelBorder.LOWERED,
-					Color.white,
-					Color.white,
+					Color.lightGray,
+					Color.lightGray,
 					new Color(124, 124, 124),
 					new Color(178, 178, 178)),
 				BorderFactory.createEmptyBorder(0, 2, 0, 0));
