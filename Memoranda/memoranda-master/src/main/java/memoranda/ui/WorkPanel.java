@@ -57,7 +57,7 @@ public class WorkPanel extends JPanel {
 					Color.lightGray,
 					Color.lightGray,
 					new Color(124, 124, 124),
-					new Color(178, 178, 178)),
+					new Color(155, 155, 155)),
 				BorderFactory.createEmptyBorder(0, 2, 0, 0));
 
 		this.setLayout(borderLayout1);
