@@ -38,7 +38,7 @@ Baeckerei: Bakery
 
 Hund: Dog
 
-DÃ¶ner: 
+DÃ¶ner: nerd
 
 Apfelkuchen: Apple pie
 
