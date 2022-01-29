@@ -30,11 +30,11 @@ Schloss: A castle of manor
 
 wettbewerbsfaehig: 
 
-Mehlhase: 
+Mehlhase: Software engineering professor at ASU
 
-Gebaeck:
+Gebaeck: Biscuits
 
-Baeckerei: 
+Baeckerei: Bakery
 
 Hund: Dog
 
