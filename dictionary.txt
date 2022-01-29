@@ -36,10 +36,10 @@ Gebaeck:
 
 Baeckerei: 
 
-Hund: 
+Hund: Dog
 
 DÃ¶ner: 
 
 Apfelkuchen: Apple pie
 
-Eltz
+Eltz: A medieval castle between Koblez and Trier, Germany
