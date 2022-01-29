@@ -1,6 +1,11 @@
-https://github.com/emilyhalva/Icebreaker_eirerkuchen/pull/11 Nicholas E
+Nicholas Ellender:
+https://github.com/emilyhalva/Icebreaker_eirerkuchen/pull/11
 
-https://github.com/careyes8/apple_strudel_icebreaker/pull/11 Conner Duncan
+Conner Duncan:
+https://github.com/careyes8/apple_strudel_icebreaker/pull/11
 
-https://github.com/NickN18/Story-time-SER316/pull/7 Ryland rloquinn (ryan911199 github)
+Ryland Rloquinn (ryan911199 github):
+https://github.com/NickN18/Story-time-SER316/pull/7
 
+Alexander Whyman (awhyman):
+https://github.com/NickN18/Story-time-SER316/pull/8
