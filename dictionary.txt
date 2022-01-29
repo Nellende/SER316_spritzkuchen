@@ -22,24 +22,24 @@ Biergarten:
 
 Ratskeller: 
 
-Dirndel:
+Dirndel: A short sleeved dress with a full skirt 
 
 Lederhose: Leather shorts with suspenders
 
 Schloss: A castle of manor
 
-wettbewerbsfaehig: 
+wettbewerbsfaehig: Competitive
 
-Mehlhase: 
+Mehlhase: Software engineering professor at ASU
 
-Gebaeck:
+Gebaeck: Biscuits
 
-Baeckerei: 
+Baeckerei: Bakery
 
-Hund: 
+Hund: Dog
 
 DÃ¶ner: 
 
 Apfelkuchen: Apple pie
 
-Eltz
+Eltz: A medieval castle between Koblez and Trier, Germany
