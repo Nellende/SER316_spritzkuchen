@@ -22,13 +22,13 @@ Biergarten:
 
 Ratskeller: 
 
-Dirndel:
+Dirndel: A short sleeved dress with a full skirt 
 
 Lederhose: Leather shorts with suspenders
 
 Schloss: A castle of manor
 
-wettbewerbsfaehig: 
+wettbewerbsfaehig: Competitive
 
 Mehlhase: Software engineering professor at ASU
 
