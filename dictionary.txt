@@ -1,47 +1,45 @@
-Raesfeld 
+Raesfeld: 
 
-Flughafen 
+Flughafen: 
 
-Berlin 
+Berlin: 
 
-Bratwurst 
+Bratwurst: 
 
-Hauptstrasse 
+Hauptstrasse: 
 
-Brot 
+Brot: 
 
-Klimaanlage 
+Klimaanlage: 
 
-Rammstein 
+Rammstein: 
 
-Porsche
+Porsche:
 
-BMW 
+BMW: 
 
-Biergarten 
+Biergarten: 
 
-Ratskeller 
+Ratskeller: 
 
-Dirndel 
+Dirndel:
 
-Lederhose 
-
-Schloss 
-
-wettbewerbsfaehig 
-
-Mehlhase 
-
-Gebaeck
-
-Baeckerei 
-
-Hund 
-
-DÃ¶ner 
-
-Apfelkuchen 
+Lederhose: Leather shorts with suspenders
 
 Schloss: A castle of manor
+
+wettbewerbsfaehig: 
+
+Mehlhase: 
+
+Gebaeck:
+
+Baeckerei: 
+
+Hund: 
+
+DÃ¶ner: 
+
+Apfelkuchen: Apple pie
 
 Eltz
