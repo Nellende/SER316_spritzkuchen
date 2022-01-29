@@ -1,18 +1,18 @@
-Raesfeld: 
+Raesfeld: An administrative division in the district of Borken
 
-Flughafen: 
+Flughafen: Airport
 
-Berlin: 
+Berlin: The capitol of and largest city in Germany
 
-Bratwurst: 
+Bratwurst: A highly seasoned type of sausage that is typically that is typically made of pork
 
-Hauptstrasse: 
+Hauptstrasse: A major road/street
 
-Brot: 
+Brot: Bread
 
-Klimaanlage: 
+Klimaanlage: air conditioning 
 
-Rammstein: 
+Rammstein: A German heavy metal band 
 
 Porsche: Dr.-Ing. h.c. F. Porsche AG; a car manufacturing company specializing in luxury cars, SUVs, and sedans
 
